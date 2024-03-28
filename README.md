@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Filippo, I'm from Italy and I like to code👨‍💻 especially in Pyhton!
+
+I'm a Data enthusiast💭 I like to approach to the problem in the longest🏃, hardest🧗, but most complete way, I'd picture myself as a perfectionist👨‍🎨, although I'm not perfect😿.
+
+I have many repo, but they're all private, if you'd like to contact me, find me on (LinkedIn)[https://www.linkedin.com/in/filipposansoldo/] or send me an (email)[mailto:filipposansoldo@me.com]!
